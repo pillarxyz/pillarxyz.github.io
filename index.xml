@@ -5,14 +5,15 @@
     <link>https://aymanlafaz.xyz/</link>
     <description>Recent content on Ayman Lafaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aymanlafaz.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 22:53:58 +0530</lastBuildDate><atom:link href="https://aymanlafaz.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://aymanlafaz.xyz/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>My Experience as an intern at startups</title>
+      <link>https://aymanlafaz.xyz/blogs/startup/</link>
+      <pubDate>Sat, 10 Sep 2022 22:53:58 +0530</pubDate>
       
-      <guid>https://aymanlafaz.xyz/article/</guid>
-      <description></description>
+      <guid>https://aymanlafaz.xyz/blogs/startup/</guid>
+      <description>In this short article I will be talking about my experience working as an intern for startups and the ways it could be beneficial as well as its negative side for aspiring engineering students</description>
     </item>
     
   </channel>
