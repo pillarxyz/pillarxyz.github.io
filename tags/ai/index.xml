@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Ayman Lafaz</title>
+    <link>https://aymanlafaz.com/tags/ai/</link>
+    <description>Recent content in AI on Ayman Lafaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2023, Ayman Lafaz</copyright>
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aymanlafaz.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT models are not as good as you think</title>
+      <link>https://aymanlafaz.com/post/chatgpt-rant/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/post/chatgpt-rant/</guid>
+      <description>With the introduction of ChatGPT alot of people who would have never heard about the advancements in Text Generation models now are more aware of it, lots of people now are using these models to take care of the hassle of having to write stuff as we all can admit that writing is not fun.
+But I think that these models are far from good as I will explain now, ChatGPT which is just a GPT-3 model with the capacity to have dialogue can be very overly confident even when spewing the most made-up and unfactual responses you can imagine.</description>
+    </item>
+    
+  </channel>
+</rss>

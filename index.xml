@@ -6,14 +6,36 @@
     <description>Recent content on Ayman Lafaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Sep 2022 22:53:58 +0530</lastBuildDate><atom:link href="https://aymanlafaz.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2023, Ayman Lafaz</copyright>
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aymanlafaz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Experience as an intern at startups</title>
-      <link>https://aymanlafaz.com/blogs/startup/</link>
-      <pubDate>Sat, 10 Sep 2022 22:53:58 +0530</pubDate>
+      <title>GPT models are not as good as you think</title>
+      <link>https://aymanlafaz.com/post/chatgpt-rant/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aymanlafaz.com/blogs/startup/</guid>
-      <description>In this short article I will be talking about my experience working as an intern for startups and the ways it could be beneficial as well as its negative side for aspiring engineering students</description>
+      <guid>https://aymanlafaz.com/post/chatgpt-rant/</guid>
+      <description>With the introduction of ChatGPT alot of people who would have never heard about the advancements in Text Generation models now are more aware of it, lots of people now are using these models to take care of the hassle of having to write stuff as we all can admit that writing is not fun.
+But I think that these models are far from good as I will explain now, ChatGPT which is just a GPT-3 model with the capacity to have dialogue can be very overly confident even when spewing the most made-up and unfactual responses you can imagine.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aymanlafaz.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aymanlafaz.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/about/</guid>
+      <description>About Me I’m Ayman Lafaz Machine Learning Engineer, I’ve worked on many Machine learning and Data Science projects especially in time series forecasting, data analytics and visualization and computer vision, I’m always looking for new opportunities to share and expand my skills also as a freelancer.
+Experience Data Science and Machine Learning Freelancer | December 2021 - March 2023
+Working with clients on various data and machine learning related projects, taking a data driven approach to solve challenging business problems.</description>
     </item>
     
   </channel>

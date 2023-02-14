@@ -5,6 +5,53 @@
     <link>https://aymanlafaz.com/tags/</link>
     <description>Recent content in Tags on Ayman Lafaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aymanlafaz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2023, Ayman Lafaz</copyright>
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aymanlafaz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://aymanlafaz.com/tags/ai/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPT3</title>
+      <link>https://aymanlafaz.com/tags/gpt3/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/tags/gpt3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://aymanlafaz.com/tags/llm/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI</title>
+      <link>https://aymanlafaz.com/tags/openai/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/tags/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://aymanlafaz.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aymanlafaz.com/tags/index/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
