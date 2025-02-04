@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>My New Hugo Site</title>
-	<link>http://example.org/</link>
+	<link>http://aymanlafaz.com/</link>
 	<description>Recent content in Ayman Lafaz on My New Hugo Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Wed, 13 Nov 2024 20:21:14 +0100</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://aymanlafaz.com/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Personal Library</title>
-		<link>http://example.org/personal-library/</link>
+		<link>http://aymanlafaz.com/personal-library/</link>
 		<pubDate>Wed, 13 Nov 2024 20:21:14 +0100</pubDate>
 		
-		<guid>http://example.org/personal-library/</guid>
+		<guid>http://aymanlafaz.com/personal-library/</guid>
 		<description>&lt;h1 id=&#34;library&#34;&gt;Library&lt;/h1&gt;
 &lt;p&gt;A curated collection of books I&amp;rsquo;ve read, am reading, or plan to read. This list reflects my interests in philosophy, classical literature, and historical works.&lt;/p&gt;
 &lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
