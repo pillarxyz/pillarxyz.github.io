@@ -1,0 +1,59 @@
+body {
+	font-family: sans-serif ;
+	background: rgb(21,21,21) ;
+	color: #ccc ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* Default link state */
+a {
+    color: rgb(170, 130, 30);
+}
+
+a:hover {
+    color: rgb(190, 130, 30);
+}
+
+a:active {
+    color: rgb(150, 130, 30);
+}
+
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}

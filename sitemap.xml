@@ -2,50 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aymanlafaz.com/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2024-11-13T20:21:14+01:00</lastmod>
   </url><url>
-    <loc>https://aymanlafaz.com/tags/ai/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/books/</loc>
+    <lastmod>2024-11-13T20:21:14+01:00</lastmod>
   </url><url>
-    <loc>https://aymanlafaz.com/post/are-we-on-the-verge-of-a-new-ai-revolution/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/library/</loc>
+    <lastmod>2024-11-13T20:21:14+01:00</lastmod>
   </url><url>
-    <loc>https://aymanlafaz.com/tags/philosophy/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <loc>http://example.org/personal-library/</loc>
+    <lastmod>2024-11-13T20:21:14+01:00</lastmod>
   </url><url>
-    <loc>https://aymanlafaz.com/post/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2024-11-13T20:21:14+01:00</lastmod>
   </url><url>
-    <loc>https://aymanlafaz.com/tags/revolution/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/tags/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/tags/technology/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/post/gpt-models-are-not-as-good-as-you-think/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/tags/gpt3/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/tags/llm/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/tags/openai/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aymanlafaz.com/categories/</loc>
-  </url><url>
-    <loc>https://aymanlafaz.com/tags/index/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>

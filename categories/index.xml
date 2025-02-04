@@ -1,11 +1,161 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ayman Lafaz</title>
-    <link>https://aymanlafaz.com/categories/</link>
-    <description>Recent content in Categories on Ayman Lafaz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2023, Ayman Lafaz</copyright><atom:link href="https://aymanlafaz.com/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<title>My New Hugo Site</title>
+	<link>http://example.org/categories/</link>
+	<description>Recent content in Categories on My New Hugo Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Personal Library</title>
+		<link>http://example.org/personal-library/</link>
+		<pubDate>Wed, 13 Nov 2024 20:21:14 +0100</pubDate>
+		
+		<guid>http://example.org/personal-library/</guid>
+		<description>&lt;h1 id=&#34;library&#34;&gt;Library&lt;/h1&gt;
+&lt;p&gt;A curated collection of books I&amp;rsquo;ve read, am reading, or plan to read. This list reflects my interests in philosophy, classical literature, and historical works.&lt;/p&gt;
+&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#ancient-philosophy&#34;&gt;Ancient Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#modern-philosophy&#34;&gt;Modern Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#historical-works&#34;&gt;Historical Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#eastern-thought&#34;&gt;Eastern Thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#classical-literature&#34;&gt;Classical Literature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#military--political-theory&#34;&gt;Military &amp;amp; Political Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#language--reference&#34;&gt;Language &amp;amp; Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ancient-philosophy&#34;&gt;Ancient Philosophy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Republic&lt;/em&gt; - Plato
+&lt;ul&gt;
+&lt;li&gt;Core work on justice, education, and the ideal state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Timaeus&lt;/em&gt; - Plato
+&lt;ul&gt;
+&lt;li&gt;Dialogue on cosmology and the physical world&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Symposium and the Death of Socrates&lt;/em&gt; - Plato
+&lt;ul&gt;
+&lt;li&gt;Collection including Euthyphro, Apology, Crito, and Phaedo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Metaphysics&lt;/em&gt; - Aristotle
+&lt;ul&gt;
+&lt;li&gt;Foundational work on being and first principles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Letters&lt;/em&gt; - Pliny the Younger
+&lt;ul&gt;
+&lt;li&gt;Firsthand account of Roman life and governance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Enneads&lt;/em&gt; - Plotinus
+&lt;ul&gt;
+&lt;li&gt;Neo-Platonic treatises on the soul, being, and the One&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modern-philosophy&#34;&gt;Modern Philosophy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Critique of Pure Reason&lt;/em&gt; - Immanuel Kant&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thus Spake Zarathustra&lt;/em&gt; - Friedrich Nietzsche&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Beyond Good and Evil&lt;/em&gt; - Friedrich Nietzsche&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Aphorisms on Love and Hate&lt;/em&gt; - Friedrich Nietzsche&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;On the Suffering of the World&lt;/em&gt; - Arthur Schopenhauer&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ethics&lt;/em&gt; - Benedict Spinoza&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Le mythe de Sisyphe&lt;/em&gt; - Albert Camus&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Ego and Its Own&lt;/em&gt; - Max Stirner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;historical-works&#34;&gt;Historical Works&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Histories&lt;/em&gt; - Herodotus
+&lt;ul&gt;
+&lt;li&gt;The foundation of historical writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;SPQR&lt;/em&gt; - Mary Beard
+&lt;ul&gt;
+&lt;li&gt;Modern perspective on Roman history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Emperor of Rome&lt;/em&gt; - Mary Beard&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Decline and Fall of the Roman Empire&lt;/em&gt; - Edward Gibbon
+&lt;ul&gt;
+&lt;li&gt;Classic work on Roman decline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The First Crusade&lt;/em&gt; - Peter Frankopan&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The New Silk Roads&lt;/em&gt; - Peter Frankopan&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Last Days of the Ottoman Empire&lt;/em&gt; - Ryan Gingeras&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Greek and Roman Political Ideas&lt;/em&gt; - Melissa Lane&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;eastern-thought&#34;&gt;Eastern Thought&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Tao Te Ching&lt;/em&gt; - Lao Tzu
+&lt;ul&gt;
+&lt;li&gt;Foundational Taoist text&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Upanishads&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Core Vedic philosophical texts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Sacred Gathas of Zarathustra &amp;amp; The Old Avestan Canon&lt;/em&gt; - Pablo Vazquez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ibn Fadlan and the Land of Darkness&lt;/em&gt; - Ibn Fadlan
+&lt;ul&gt;
+&lt;li&gt;Travel accounts through medieval Islamic lands&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;classical-literature&#34;&gt;Classical Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Fall of Icarus&lt;/em&gt; - Ovid&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;O Cruel Alexis&lt;/em&gt; - Virgil&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Inferno&lt;/em&gt; - Dante Alighieri&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Faust&lt;/em&gt; - Johann Wolfgang von Goethe&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Caligula&lt;/em&gt; - Suetonius&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Concise Pepys&lt;/em&gt; - Samuel Pepys&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;military--political-theory&#34;&gt;Military &amp;amp; Political Theory&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Prince&lt;/em&gt; - Machiavelli
+&lt;ul&gt;
+&lt;li&gt;Classic work on political power&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;On War&lt;/em&gt; - Carl von Clausewitz
+&lt;ul&gt;
+&lt;li&gt;Comprehensive theory of warfare&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Book of Five Rings&lt;/em&gt; - Miyamoto Musashi
+&lt;ul&gt;
+&lt;li&gt;Japanese martial and strategic philosophy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;language--reference&#34;&gt;Language &amp;amp; Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Wheelock&amp;rsquo;s Latin&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprehensive Latin grammar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Lingua Latina Per se Illustrata&lt;/em&gt; - Hans H. Ørberg
+&lt;ul&gt;
+&lt;li&gt;Natural method Latin textbook&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
 </rss>
