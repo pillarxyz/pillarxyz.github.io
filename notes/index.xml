@@ -1,13 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Ayman Lafaz</title>
-	<link>http://aymanlafaz.com/tags/books/</link>
-	<description>Recent content in Books on Ayman Lafaz</description>
+	<link>http://aymanlafaz.com/notes/</link>
+	<description>Recent content in Notes on Ayman Lafaz</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Wed, 13 Nov 2024 20:21:14 +0100</lastBuildDate>
     
-        <atom:link href="http://aymanlafaz.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://aymanlafaz.com/notes/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
